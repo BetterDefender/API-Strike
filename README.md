@@ -1,8 +1,10 @@
-# API-Strike 🚀
-
-[English](#english) | [中文](#中文)
-
-<img src="api.png" alt="API-Strike Preview" width="300">
+<div align="center">
+  <h1>API-Strike 🚀</h1>
+  <p>
+    <a href="#english">English</a> | <a href="#中文">中文</a>
+  </p>
+  <img src="api.png" alt="API-Strike Preview" width="400">
+</div>
 
 ---
 
