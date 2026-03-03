@@ -3,7 +3,6 @@
   <p>
     <a href="#english">English</a> | <a href="#中文">中文</a>
   </p>
-  <img src="api.png" alt="API-Strike Preview" width="400">
 </div>
 
 ---
@@ -55,10 +54,14 @@ API-Strike 是一款专为开发者和安全研究人员设计的浏览器插件
 
 ### 🛠 安装步骤
 
-1.  克隆本仓库或下载源码到本地。
+1.  克隆本仓库 or 下载源码到本地。
 2.  打开 Chrome 或类 Chromium 浏览器，进入 `chrome://extensions/`。
 3.  在右上角开启 **“开发者模式”**。
 4.  点击 **“加载已解压的扩展程序”**，选择 `api-strike-extension` 文件夹即可。
+
+<div align="center">
+  <img src="api.png" alt="API-Strike Preview" width="400">
+</div>
 
 ---
 
