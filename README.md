@@ -2,6 +2,8 @@
 
 [English](#english) | [中文](#中文)
 
+![API-Strike Preview](api.png)
+
 ---
 
 ## English
