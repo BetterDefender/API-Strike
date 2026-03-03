@@ -59,9 +59,7 @@ API-Strike 是一款专为开发者和安全研究人员设计的浏览器插件
 3.  在右上角开启 **“开发者模式”**。
 4.  点击 **“加载已解压的扩展程序”**，选择 `api-strike-extension` 文件夹即可。
 
-<div align="center">
-  <img src="api.png" alt="API-Strike Preview" width="400">
-</div>
+<img src="api.png" alt="API-Strike Preview" width="400">
 
 ---
 
