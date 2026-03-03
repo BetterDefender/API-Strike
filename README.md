@@ -2,7 +2,7 @@
 
 [English](#english) | [中文](#中文)
 
-![API-Strike Preview](api.png)
+<img src="api.png" alt="API-Strike Preview" width="600">
 
 ---
 
